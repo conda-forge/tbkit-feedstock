@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.0"
+  version: "0.6.0"
 
 package:
   name: tbkit
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tbkit/tbkit-${{ version }}.tar.gz
-  sha256: b2a6e51837d8aac4ecaf3b0f2534af9c5d20d9f9a4d6a7628bac3726cf56cb15
+  sha256: 2f7ca7c0f7474b14de5861edeca11826e2a1492356a73c8a8fa03fd98042140c
 
 build:
   number: 0
